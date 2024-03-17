@@ -2,7 +2,6 @@
   <h1 >Eae minha joia, de boa? Olha meu perfil ai, se acanhe não rs</h1>
   <br>
   <h1>Sobre mim 🧑‍🦱</h1>
-  <img src="https://i.pinimg.com/originals/26/a0/eb/26a0eb351596efdcb1ed8996de23462d.png" min-width="400px" max-width="400px" width="400px" align="right" padding-bottom="50px">
   <p>Me chamo Pedro Fellipe (vulgo Marrom bombom, brincadeira kkkkkkk), tenho 20 anos e estou no meu 1° trimestre do curso de Análise e Desenvolvimento de Sistemas e confesso que minha primeira opção não foi a área da tecnologia, seria futebol se       não fosse o meu       problema com a droga (a droga das pernas kkkkkkk), mas a cada dia que passa, me sinto encantado com essa área da tecnologia e em êxtase ao ver essa constante evolução virtual. Estou em busca de transicionar de carreira, sair de um operador de fábrica       para ser o      garoto do programa kkkkk</p>
   <h4>Já deu pra notar que eu sou engraçadinho né? mas eu sou legal, continua vendo meu perfil que vai valer a pena, eu juro. </h4>
 </div>
@@ -11,8 +10,8 @@
 <div>
   <h1>Estatísticas 📈</h1>
   <a href="https://github.com/Pedrol1pe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrol1pe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrol1pe&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedrol1pe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrol1pe&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <div>
