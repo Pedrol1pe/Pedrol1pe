@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/Pedrol1pe/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-    <a href="pdr0ctt@gmail.com">
+    <a href="mailto:pdr0ctt@gmail.com">
       <img class="mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/pedrol1pe/">
