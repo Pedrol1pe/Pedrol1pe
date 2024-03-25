@@ -6,14 +6,6 @@
   <h4>Já deu pra notar que eu sou engraçadinho né? mas eu sou legal, continua vendo meu perfil que vai valer a pena, eu juro. </h4>
 </div>
 <br>
-
-<div>
-  <h1>Estatísticas 📈</h1>
-
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedrol1pe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrol1pe&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<br>
 <div>
   <h1>Aprendendo ✏️</h1>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
